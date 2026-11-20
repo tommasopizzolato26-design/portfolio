@@ -16,6 +16,7 @@ artifacts/
 *.pt
 *.pth
 *.pdf
+!/docs/Tesi_Studio_Dataset_e_Decisioni.pdf
 
 # Configurazione locale e segreti
 .env

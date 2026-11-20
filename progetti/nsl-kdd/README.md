@@ -2,9 +2,11 @@
 
 Progetto di tesi all’Università di Ferrara. Ho studiato come riconoscere gli attacchi dal traffico di rete e quanto cambia il risultato quando il modello incontra un tipo di attacco nuovo.
 
+**[Leggi il resoconto completo della tesi (PDF)](docs/Tesi_Studio_Dataset_e_Decisioni.pdf)**
+
 ## Classificazione degli attacchi
 
-Ho confrontato sei modelli su cinque classi di traffico. Dopo le prove iniziali con split 80/20, ho addestrato le configurazioni finali sul **100% di KDDTrain+** (125.973 connessioni) e le ho valutate su **KDDTest+** (22.544 connessioni).
+Ho confrontato sei modelli su cinque classi di traffico. Ho addestrato le configurazioni finali sul **100% di KDDTrain+** (125.973 connessioni) e le ho valutate su **KDDTest+** (22.544 connessioni).
 
 Il **MLP** (rete neurale) ha ottenuto il miglior macro F1 (**0,5469**), la media dei punteggi F1 delle cinque classi. Ha riconosciuto il **10,71%** degli attacchi R2L e l’**8,50%** degli U2R.
 

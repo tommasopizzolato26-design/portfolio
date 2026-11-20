@@ -1,0 +1,7 @@
+# Dipendenze dirette; requirements.txt blocca l'ambiente completo verificato.
+pandas
+scikit-learn
+ipykernel
+nbconvert
+pytest
+matplotlib

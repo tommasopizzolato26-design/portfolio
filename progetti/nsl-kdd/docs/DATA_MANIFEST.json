@@ -1,0 +1,28 @@
+{
+  "dataset": "NSL-KDD",
+  "repository": "https://github.com/Jehuty4949/NSL_KDD",
+  "commit": "27bbbdf5c5cccf9970b8b6037a0f19dc09c5a0a9",
+  "official_description": "https://www.unb.ca/cic/datasets/nsl.html",
+  "citation": "Tavallaee et al., A Detailed Analysis of the KDD CUP 99 Data Set, CISDA 2009",
+  "csv_format": "Byte-identical copy of the headerless TXT; 41 features, label, difficulty.",
+  "files": [
+    {
+      "original": "data/raw/KDDTrain+.txt",
+      "csv_copy": "data/raw/KDDTrain+.csv",
+      "url": "https://raw.githubusercontent.com/Jehuty4949/NSL_KDD/27bbbdf5c5cccf9970b8b6037a0f19dc09c5a0a9/KDDTrain%2B.txt",
+      "acquired_utc": "2026-11-02T08:54:27.239343+00:00",
+      "bytes": 19109424,
+      "git_blob_sha1": "20002897492adc110190a10509aa694f26f7f308",
+      "sha256": "1b86d2f957b33082081bba410fe129b475efebcc13c9014c3f447c8271aadf95"
+    },
+    {
+      "original": "data/raw/KDDTest+.txt",
+      "csv_copy": "data/raw/KDDTest+.csv",
+      "url": "https://raw.githubusercontent.com/Jehuty4949/NSL_KDD/27bbbdf5c5cccf9970b8b6037a0f19dc09c5a0a9/KDDTest%2B.txt",
+      "acquired_utc": "2026-11-02T08:54:27.921800+00:00",
+      "bytes": 3441513,
+      "git_blob_sha1": "b30e89605285a5ccd8cf8fd38dba72906c20d3dd",
+      "sha256": "fa46b0935342616aa83b7c2578db355b6a7aaabbc492248172c7a1e8b7ab8f84"
+    }
+  ]
+}

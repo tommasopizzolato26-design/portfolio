@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-11-05",
+  "repository_id": 4055141,
+  "snapshot_commit": "75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+  "alternative_branch_commit": "579a9fd2734c1d3765bb1a4b6f5e0de46fbdea7b",
+  "latest_master_commit_before_arxiv": {
+    "id": "c86f42ec1e031b8c77c7e2dd24e89da0d4d42ba2",
+    "committed_date": "2017-06-26T16:07:13.000+05:30"
+  },
+  "source_checks": [
+    {
+      "path": "NSL/Code/classifiers.py",
+      "blob": "79c5d6f4d3820befa5f3dc8c8411f61c28630d27",
+      "bytes": 9433,
+      "sha256": "517d7487c7a36705423e9927d1084fd56731a72e1fdfb380359ad524c36ca4f4",
+      "source": "https://gitlab.com/api/v4/projects/4055141/repository/files/NSL%2FCode%2Fclassifiers.py/raw?ref=75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+      "same_blob_before_paper": true,
+      "same_blob_alternative_branch": true
+    },
+    {
+      "path": "NSL/Code/constants.py",
+      "blob": "f144995e05a3817d144e1c48fb60486e6bf1aa1f",
+      "bytes": 914,
+      "sha256": "a2fd4330a0751fa9b23a6c7536b65e05a9d2fc8b4cf5364b63cba0b75dedb59b",
+      "source": "https://gitlab.com/api/v4/projects/4055141/repository/files/NSL%2FCode%2Fconstants.py/raw?ref=75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+      "same_blob_before_paper": true,
+      "same_blob_alternative_branch": true
+    },
+    {
+      "path": "NSL/Code/main.py",
+      "blob": "ad98f05c3832391a494043421583f7c7a45d265a",
+      "bytes": 2909,
+      "sha256": "5b61a832951d101f9e8e9094e5f1fb28b71d1be72ca046abc886dc1298ea79d4",
+      "source": "https://gitlab.com/api/v4/projects/4055141/repository/files/NSL%2FCode%2Fmain.py/raw?ref=75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+      "same_blob_before_paper": true,
+      "same_blob_alternative_branch": true
+    },
+    {
+      "path": "NSL/Code/preprocessing.py",
+      "blob": "cdff241ddb116f0a874d47d1cbe6d9179d5aebfc",
+      "bytes": 2721,
+      "sha256": "90cc44838db05ef3b5e25f057b357fd08b9ba587a7e19652f242688067ca5ce2",
+      "source": "https://gitlab.com/api/v4/projects/4055141/repository/files/NSL%2FCode%2Fpreprocessing.py/raw?ref=75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+      "same_blob_before_paper": true,
+      "same_blob_alternative_branch": true
+    },
+    {
+      "path": "NSL/Code/util.py",
+      "blob": "820c6d81f1abf979ec0240c9dc8443df4b2a3552",
+      "bytes": 2695,
+      "sha256": "1ed9531154ad3bb9ff80771fdea18c818113e9190042777d74c7a56ed3f9c7a6",
+      "source": "https://gitlab.com/api/v4/projects/4055141/repository/files/NSL%2FCode%2Futil.py/raw?ref=75b8f8b1ca6bdb3a9a96736c0c623d984d8d6bb9",
+      "same_blob_before_paper": true,
+      "same_blob_alternative_branch": true
+    }
+  ],
+  "mapping_labels_compared": 40,
+  "mapping_differences": [
+    {
+      "label": "worm",
+      "project": "dos",
+      "author": "r2l"
+    },
+    {
+      "label": "httptunnel",
+      "project": "r2l",
+      "author": "u2r"
+    }
+  ],
+  "additional_author_labels": [
+    "unknown"
+  ],
+  "code_executed": false,
+  "new_fits": 0
+}
